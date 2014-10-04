@@ -1,4 +1,4 @@
-- Tartanian7 50/100HU button opening frequencies
+- Tartanian7 50/100HU button opening frequencies (2.9M hands)
 
 ```
 AAo
