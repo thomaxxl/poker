@@ -1,3 +1,5 @@
+- Tartanian7 50/100HU button opening frequencies
+
 ```
 AAo
   fold 0.0
