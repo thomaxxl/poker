@@ -1,7 +1,3 @@
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
 
 - Tartanian7 50/100HU 200bb button opening frequencies (2.9M hands)
 
