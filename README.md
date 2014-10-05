@@ -6,7 +6,7 @@ Cards | Fold |Limp | Minraise | 2x | 2.5x | 3x | 5x
 
 Cards         | Fold          | Limp | Minraise | 2x | 2.5x | 3x | 5x |
 ------------- | ------------- | --- | --------- | -- | ---- | -- | -- |
-Content Cell  | Content Cell  | xx  | xxxxxxxxx | xx |      |    |     | 
+Content Cell  | Content Cell  | xx  | xxxxxxxxx | xx |  xx  | x  | x  | 
 
 AAo | 0.0  | 4.7  | 21.4  | 40.7  | 30.5  | 2.8  |
 AKs | 0.0  | 3.1  | 19.9  | 52.0  | 21.0  | 4.1  |
