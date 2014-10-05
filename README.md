@@ -2,7 +2,7 @@
 - Tartanian7 50/100HU 200bb button opening frequencies (2.9M hands)
 
 
-Cards         | Fold          | Limp | Minraise |  Minraise | 
+Cards         | Fold          | Limp | Minraise |  2x       | 
 ------------- | ------------- | ---- | -------- | --------- |
 Content Cell  | Content Cell  | xx   | xxxxxxxx | x         |
 
