@@ -4,7 +4,7 @@
 Cards | Fold |Limp | Minraise | 2x | 2.5x | 3x | 5x
 ----- | ---- |----- | -------- | -- | --- | --- | --
 
-Cards  | Fold |
+Cards  | Fold | Limp |
 ------------- | ------------- | --
 Content Cell  | Content Cell | 
 
