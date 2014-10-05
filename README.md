@@ -4,10 +4,9 @@
 Cards | Fold |Limp | Minraise | 2x | 2.5x | 3x | 5x
 ----- | ---- |----- | -------- | -- | --- | --- | --
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+Cards  | Fold |
+------------- | ------------- | --
+Content Cell  | Content Cell | 
 
 AAo | 0.0  | 4.7  | 21.4  | 40.7  | 30.5  | 2.8  |
 AKs | 0.0  | 3.1  | 19.9  | 52.0  | 21.0  | 4.1  |
