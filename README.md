@@ -5,6 +5,7 @@
 Cards         | Fold          | Limp | Minraise |  2x       |  2.5x    |  3x       |  5x       | 
 ------------- | ------------- | ---- | -------- | --------- | -------- | --------- |  -------- |
 Content Cell  | Content Cell  | xx   | xxxxxxxx | x         | x        | x         | x         |
+AAo | 0.0  | 4.7  | 21.4  | 40.7  | 30.5  | 2.8  |
 
 
 Cards         | Fold          | Limp | Minraise | 2x | 2.5x | 3x | 5x |
